@@ -1,0 +1,36 @@
+.nav {
+	float:left;
+	width:100%;
+	background-color:#A0A0A0;
+	padding:2px;
+	padding-top:10px;
+	border-bottom-style:solid;
+	border-bottom-width:1px;
+	color: #F0F0F0;
+	border-bottom-color: #000000;
+}
+
+body {
+	background-color: #F0F0F0;
+}
+
+content {
+	background-color: #B0B0B0;
+}
+
+
+.nav h2 {
+	padding-left:8px;
+	margin:0px;
+	padding-bottom:8px;
+}
+
+body {
+	margin:0px;
+	border:0px;
+	padding:0px;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+	font-family: "Helvetica";
+}
